@@ -1,5 +1,7 @@
 # Mock TG Web App
 
+Live - https://al3xsus.github.io/tg-mock/
+
 Стек - React, Typescript, Vite
 
 ## Чтобы запустить:
