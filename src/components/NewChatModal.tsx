@@ -43,7 +43,7 @@ export const NewChatModal: React.FC<NewChatModalProps> = ({ onClose, onCreate })
       >
         <h3 style={{ margin: 0, color: '#fff' }}>Новый чат</h3>
         <input
-          placeholder="Telegram ID (например: 562312704)"
+          placeholder="Telegram ID"
           value={chatId}
           onChange={(e) => setChatId(e.target.value)}
           required
